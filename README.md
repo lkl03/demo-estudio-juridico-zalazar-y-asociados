@@ -1,2 +1,7 @@
-# demo-estudio-juridico-zalazar-y-asociados
-Demo web para Estudio Jurídico Zalazar y Asociados — diseñada por eterlab.
+# Estudio Jurídico Zalazar y Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
